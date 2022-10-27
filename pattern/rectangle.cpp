@@ -1,6 +1,15 @@
 #include <iostream>
 using namespace std;
 
+// code for the rectangle pattern
+
+/*
+            ******
+            ******
+            ******
+            ******  
+*/
+
 int main(){
 int rows,columns;
 cout<<"Number of rows        :   ";
