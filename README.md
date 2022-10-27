@@ -1,3 +1,3 @@
 # DSA
 
-trying to learn github and DSA.
+trying to learn DSA in C++.
