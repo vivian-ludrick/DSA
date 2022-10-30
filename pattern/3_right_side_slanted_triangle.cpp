@@ -4,10 +4,11 @@ using namespace std;
 // code for the rectangle pattern
 
 /*
-                     *
-                  * *
-               * * *
+                  *
+                * *
+              * * *
             * * * *
+          * * * * *
 */
 
 int main(){
