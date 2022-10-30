@@ -4,10 +4,10 @@ using namespace std;
 /*
 code for printing a triangle
 
-                *
-              ***
-            *****
-          *******
+            *
+           ***
+          *****
+         *******
         *********
 */
 
@@ -38,8 +38,10 @@ int main()
     }
 
 
-/* or we can use another method to print spaces in place of even nos.
-but the output will be slightly different like
+  
+  
+/* 
+or we can use another method to print spaces in place of stars at even no positions,
 
             *
            * *
